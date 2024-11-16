@@ -1,0 +1,20 @@
+[
+    {
+        "code": "CAR001",
+        "name": "Gerente de RRHH",
+        "active": true,
+        "user_creation_id": 1
+    },
+    {
+        "code": "CAR002",
+        "name": "Analista Financiero",
+        "active": true,
+        "user_creation_id": 1
+    },
+    {
+        "code": "CAR003",
+        "name": "Desarrollador de Software",
+        "active": true,
+        "user_creation_id": 1
+    }
+]

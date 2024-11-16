@@ -1,0 +1,47 @@
+[
+    {
+        "username": "johndoe123",
+        "first_name": "John",
+        "second_name": "Michael",
+        "first_last_name": "Doe",
+        "second_last_name": "Smith",
+        "department_id": 2,
+        "job_title_id": 3
+    },
+    {
+        "username": "janedoe456",
+        "first_name": "Jane",
+        "second_name": "Elizabeth",
+        "first_last_name": "Doe",
+        "second_last_name": "Johnson",
+        "department_id": 1,
+        "job_title_id": 2
+    },
+    {
+        "username": "richardson789",
+        "first_name": "Richard",
+        "second_name": "Louis",
+        "first_last_name": "Richardson",
+        "second_last_name": "Williams",
+        "department_id": 1,
+        "job_title_id": 1
+    },
+    {
+        "username": "emilycurry101",
+        "first_name": "Emily",
+        "second_name": "Grace",
+        "first_last_name": "Curry",
+        "second_last_name": "Davis",
+        "department_id": 1,
+        "job_title_id": 2
+    },
+    {
+        "username": "michaeljackson111",
+        "first_name": "Michael",
+        "second_name": "David",
+        "first_last_name": "Jackson",
+        "second_last_name": "Martinez",
+        "department_id": 1,
+        "job_title_id": 2
+    }
+]
